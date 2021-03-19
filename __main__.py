@@ -1,34 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Bihari420 
-Bihari420
-/
-lucifer
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-lucifer/__main__.py /
-@Bihari420
-Bihari420 Update __main__.py
-Latest commit 8573fe1 20 hours ago
- History
- 1 contributor
-654 lines (520 sloc)  27 KB
-  
 import datetime, re, importlib
 from typing import Optional, List
 
